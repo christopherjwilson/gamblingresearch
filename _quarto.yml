@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - "CNAME"
+website:
+  title: "Research Project Site"
+  navbar:
+    logo: "images/icon.png"
+format:
+  html:
+    email-obfuscation: javascript
+    theme:
+      - litera
+    css: styles.css
+    page-layout: full
+
+editor: source
+
