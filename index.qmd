@@ -1,7 +1,7 @@
 ---
 format: html
 ---
-This site is under development. It will host information about a research project being conducted in 2025/25 by [Dr. Christopher Wilson](mailto:christopher.wilson@tees.ac.uk) and colleagues at Teesside University.
+This site is under development. It will host information about a research project being conducted in 2025/26 by [Dr. Christopher Wilson](mailto:christopher.wilson@tees.ac.uk) and colleagues at Teesside University.
 
 You might have been contacted about participating in a research project and wanted to check if the message was legitimate. Until this site is up and running, you can find more information at these links:
 
